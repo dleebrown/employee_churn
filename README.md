@@ -1,4 +1,4 @@
-Employee Retention/Churn Analysis - Donald Lee-Brown
+# Employee Retention/Churn Analysis - Donald Lee-Brown
 
 Originally a mock data challenge completed as part of the [2018B NYC Insight Data Science Fellows Program](https://www.insightdatascience.com/).
 
@@ -8,8 +8,8 @@ In this project we are presented with some limited data on employees from severa
 
 Key questions to answer are:
 
-**What are some key individual factors that influence employee churn? For example, salary, discipline, and experience may all play a role in whether or not a company retains an employee.
+* What are some key individual factors that influence employee churn? For example, salary, discipline, and experience may all play a role in whether or not a company retains an employee.
 
-**Do company-wide factors play a role in employee churn? For example, perhaps employees at large companies are more likely to leave and pursue other opportunies (or vice versa).
+* Do company-wide factors play a role in employee churn? For example, perhaps employees at large companies are more likely to leave and pursue other opportunies (or vice versa).
 
-**When does churn occur? Do most dissatisfied employees leave early or do they try and stick around for a few years?
+* When does churn occur? Do most dissatisfied employees leave early or do they try and stick around for a few years?
